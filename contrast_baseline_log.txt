@@ -1,0 +1,253 @@
+
+*******************************
+Experiment: contrast_baseline
+Stage: train
+Epoch: 1
+
+Train:
+  Loss: 1.1643
+  Acc: 0.6641
+  F1: 0.2554
+  Recall: 0.2503
+
+Validation:
+  Loss: 0.8366
+  Acc: 0.7193
+  F1: 0.2496
+  Recall: 0.2392
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: contrast_baseline
+Stage: train
+Epoch: 2
+
+Train:
+  Loss: 0.8219
+  Acc: 0.7068
+  F1: 0.2939
+  Recall: 0.2786
+
+Validation:
+  Loss: 0.8416
+  Acc: 0.7082
+  F1: 0.2872
+  Recall: 0.3261
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: contrast_baseline
+Stage: train
+Epoch: 3
+
+Train:
+  Loss: 0.7672
+  Acc: 0.7217
+  F1: 0.3371
+  Recall: 0.3147
+
+Validation:
+  Loss: 0.8326
+  Acc: 0.7167
+  F1: 0.2969
+  Recall: 0.2894
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: contrast_baseline
+Stage: train
+Epoch: 4
+
+Train:
+  Loss: 0.7079
+  Acc: 0.7438
+  F1: 0.4169
+  Recall: 0.3923
+
+Validation:
+  Loss: 1.0377
+  Acc: 0.7115
+  F1: 0.3752
+  Recall: 0.3723
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: contrast_baseline
+Stage: train
+Epoch: 5
+
+Train:
+  Loss: 0.6723
+  Acc: 0.7564
+  F1: 0.4519
+  Recall: 0.4292
+
+Validation:
+  Loss: 0.6813
+  Acc: 0.7533
+  F1: 0.4398
+  Recall: 0.4168
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: contrast_baseline
+Stage: train
+Epoch: 6
+
+Train:
+  Loss: 0.6249
+  Acc: 0.7729
+  F1: 0.4877
+  Recall: 0.4627
+
+Validation:
+  Loss: 0.735
+  Acc: 0.7311
+  F1: 0.3568
+  Recall: 0.3494
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: contrast_baseline
+Stage: train
+Epoch: 7
+
+Train:
+  Loss: 0.5932
+  Acc: 0.7876
+  F1: 0.5216
+  Recall: 0.4943
+
+Validation:
+  Loss: 0.7318
+  Acc: 0.7389
+  F1: 0.4511
+  Recall: 0.4729
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: contrast_baseline
+Stage: train
+Epoch: 8
+
+Train:
+  Loss: 0.5192
+  Acc: 0.8166
+  F1: 0.5853
+  Recall: 0.5607
+
+Validation:
+  Loss: 0.7307
+  Acc: 0.7461
+  F1: 0.4634
+  Recall: 0.4435
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: contrast_baseline
+Stage: train
+Epoch: 9
+
+Train:
+  Loss: 0.4461
+  Acc: 0.8439
+  F1: 0.6331
+  Recall: 0.6121
+
+Validation:
+  Loss: 0.8331
+  Acc: 0.7422
+  F1: 0.3929
+  Recall: 0.3515
+
+Status: OVERFITTING
+*******************************
+
+*******************************
+Experiment: contrast_baseline
+Stage: train
+Epoch: 10
+
+Train:
+  Loss: 0.3643
+  Acc: 0.8729
+  F1: 0.7005
+  Recall: 0.6807
+
+Validation:
+  Loss: 0.7981
+  Acc: 0.748
+  F1: 0.4713
+  Recall: 0.463
+
+Status: OVERFITTING
+*******************************
+
+*******************************
+Experiment: contrast_baseline
+Stage: train
+Epoch: 11
+
+Train:
+  Loss: 0.2753
+  Acc: 0.9056
+  F1: 0.7466
+  Recall: 0.7263
+
+Validation:
+  Loss: 1.0999
+  Acc: 0.7239
+  F1: 0.4056
+  Recall: 0.3828
+
+Status: OVERFITTING
+*******************************
+
+*******************************
+Experiment: contrast_baseline
+Stage: train
+Epoch: 12
+
+Train:
+  Loss: 0.2149
+  Acc: 0.9274
+  F1: 0.8058
+  Recall: 0.7904
+
+Validation:
+  Loss: 1.0441
+  Acc: 0.7467
+  F1: 0.4653
+  Recall: 0.4308
+
+Status: OVERFITTING
+*******************************
+
+*******************************
+Experiment: contrast_baseline
+Stage: test
+Epoch: final
+
+Test:
+  Accuracy: 0.7515
+  F1: 0.5
+  Recall: 0.495
+
+Status: FINAL
+*******************************

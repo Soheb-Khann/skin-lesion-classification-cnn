@@ -1,0 +1,13 @@
+﻿experiment,type,test_accuracy,test_f1,test_recall
+baseline,normal,0.7535,0.4213,0.4202
+contrast_baseline,contrast,0.7515,0.5,0.495
+hybrid,normal,0.7603,0.4538,0.441
+contrast_hybrid,contrast,0.7819,0.4844,0.4774
+augmentation,normal,0.7677,0.46,0.4476
+hybrid_augmentation,normal,0.7846,0.5008,0.4896
+contrast_hybrid_augmentation,contrast,0.7508,0.386,0.3516
+weighted,normal,0.7076,0.4946,0.5178
+weighted_hybrid,normal,0.7076,0.5171,0.5641
+contrast_hybrid_weighted,contrast,0.7441,0.4942,0.532
+smote,normal,0.707,0.4928,0.5388
+contrast_hybrid_smote,contrast,0.6894,0.4866,0.57

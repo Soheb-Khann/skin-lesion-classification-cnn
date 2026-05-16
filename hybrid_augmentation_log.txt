@@ -1,0 +1,513 @@
+
+*******************************
+Experiment: hybrid_augmentation
+Stage: train
+Epoch: 1
+
+Train:
+  Loss: 1.2397
+  Acc: 0.6491
+  F1: 0.2355
+  Recall: 0.2326
+
+Validation:
+  Loss: 0.96
+  Acc: 0.7023
+  F1: 0.2165
+  Recall: 0.2116
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: hybrid_augmentation
+Stage: train
+Epoch: 2
+
+Train:
+  Loss: 0.8783
+  Acc: 0.6981
+  F1: 0.2396
+  Recall: 0.2362
+
+Validation:
+  Loss: 0.8157
+  Acc: 0.72
+  F1: 0.2148
+  Recall: 0.2191
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: hybrid_augmentation
+Stage: train
+Epoch: 3
+
+Train:
+  Loss: 0.8376
+  Acc: 0.7024
+  F1: 0.2432
+  Recall: 0.2381
+
+Validation:
+  Loss: 0.8058
+  Acc: 0.7141
+  F1: 0.2601
+  Recall: 0.2729
+
+Status: UNDERFITTING
+*******************************
+
+*******************************
+Experiment: hybrid_augmentation
+Stage: train
+Epoch: 4
+
+Train:
+  Loss: 0.815
+  Acc: 0.7129
+  F1: 0.2734
+  Recall: 0.2624
+
+Validation:
+  Loss: 0.8083
+  Acc: 0.7258
+  F1: 0.2569
+  Recall: 0.2535
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: hybrid_augmentation
+Stage: train
+Epoch: 5
+
+Train:
+  Loss: 0.7933
+  Acc: 0.7112
+  F1: 0.2889
+  Recall: 0.2726
+
+Validation:
+  Loss: 0.7528
+  Acc: 0.7409
+  F1: 0.3532
+  Recall: 0.3436
+
+Status: UNDERFITTING
+*******************************
+
+*******************************
+Experiment: hybrid_augmentation
+Stage: train
+Epoch: 6
+
+Train:
+  Loss: 0.7829
+  Acc: 0.7145
+  F1: 0.2907
+  Recall: 0.2749
+
+Validation:
+  Loss: 0.8061
+  Acc: 0.7219
+  F1: 0.2272
+  Recall: 0.227
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: hybrid_augmentation
+Stage: train
+Epoch: 7
+
+Train:
+  Loss: 0.7651
+  Acc: 0.7131
+  F1: 0.298
+  Recall: 0.2799
+
+Validation:
+  Loss: 0.7389
+  Acc: 0.7422
+  F1: 0.3143
+  Recall: 0.2922
+
+Status: UNDERFITTING
+*******************************
+
+*******************************
+Experiment: hybrid_augmentation
+Stage: train
+Epoch: 8
+
+Train:
+  Loss: 0.7529
+  Acc: 0.7169
+  F1: 0.3202
+  Recall: 0.3009
+
+Validation:
+  Loss: 0.7716
+  Acc: 0.7317
+  F1: 0.2988
+  Recall: 0.2828
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: hybrid_augmentation
+Stage: train
+Epoch: 9
+
+Train:
+  Loss: 0.7306
+  Acc: 0.7335
+  F1: 0.3729
+  Recall: 0.3445
+
+Validation:
+  Loss: 0.7192
+  Acc: 0.7585
+  F1: 0.4045
+  Recall: 0.3637
+
+Status: UNDERFITTING
+*******************************
+
+*******************************
+Experiment: hybrid_augmentation
+Stage: train
+Epoch: 10
+
+Train:
+  Loss: 0.7232
+  Acc: 0.7365
+  F1: 0.4087
+  Recall: 0.377
+
+Validation:
+  Loss: 0.7521
+  Acc: 0.7474
+  F1: 0.3766
+  Recall: 0.3268
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: hybrid_augmentation
+Stage: train
+Epoch: 11
+
+Train:
+  Loss: 0.7071
+  Acc: 0.7399
+  F1: 0.4127
+  Recall: 0.3885
+
+Validation:
+  Loss: 0.713
+  Acc: 0.765
+  F1: 0.4233
+  Recall: 0.3845
+
+Status: UNDERFITTING
+*******************************
+
+*******************************
+Experiment: hybrid_augmentation
+Stage: train
+Epoch: 12
+
+Train:
+  Loss: 0.7048
+  Acc: 0.7361
+  F1: 0.4134
+  Recall: 0.3899
+
+Validation:
+  Loss: 0.7024
+  Acc: 0.7624
+  F1: 0.4063
+  Recall: 0.3858
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: hybrid_augmentation
+Stage: train
+Epoch: 13
+
+Train:
+  Loss: 0.6931
+  Acc: 0.7438
+  F1: 0.4211
+  Recall: 0.3967
+
+Validation:
+  Loss: 0.7117
+  Acc: 0.7513
+  F1: 0.3933
+  Recall: 0.3534
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: hybrid_augmentation
+Stage: train
+Epoch: 14
+
+Train:
+  Loss: 0.678
+  Acc: 0.7485
+  F1: 0.4391
+  Recall: 0.4191
+
+Validation:
+  Loss: 0.6957
+  Acc: 0.7637
+  F1: 0.4276
+  Recall: 0.3901
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: hybrid_augmentation
+Stage: train
+Epoch: 15
+
+Train:
+  Loss: 0.6687
+  Acc: 0.7496
+  F1: 0.4527
+  Recall: 0.429
+
+Validation:
+  Loss: 0.6966
+  Acc: 0.7578
+  F1: 0.393
+  Recall: 0.3538
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: hybrid_augmentation
+Stage: train
+Epoch: 16
+
+Train:
+  Loss: 0.6662
+  Acc: 0.7581
+  F1: 0.4452
+  Recall: 0.4233
+
+Validation:
+  Loss: 0.7396
+  Acc: 0.7637
+  F1: 0.4017
+  Recall: 0.3939
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: hybrid_augmentation
+Stage: train
+Epoch: 17
+
+Train:
+  Loss: 0.6574
+  Acc: 0.7586
+  F1: 0.4633
+  Recall: 0.4424
+
+Validation:
+  Loss: 0.6859
+  Acc: 0.7728
+  F1: 0.4405
+  Recall: 0.4105
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: hybrid_augmentation
+Stage: train
+Epoch: 18
+
+Train:
+  Loss: 0.6504
+  Acc: 0.7582
+  F1: 0.4663
+  Recall: 0.4448
+
+Validation:
+  Loss: 0.6715
+  Acc: 0.7683
+  F1: 0.4699
+  Recall: 0.4752
+
+Status: UNDERFITTING
+*******************************
+
+*******************************
+Experiment: hybrid_augmentation
+Stage: train
+Epoch: 19
+
+Train:
+  Loss: 0.6442
+  Acc: 0.7692
+  F1: 0.477
+  Recall: 0.4571
+
+Validation:
+  Loss: 0.6551
+  Acc: 0.7611
+  F1: 0.4235
+  Recall: 0.4007
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: hybrid_augmentation
+Stage: train
+Epoch: 20
+
+Train:
+  Loss: 0.6433
+  Acc: 0.7665
+  F1: 0.4846
+  Recall: 0.4654
+
+Validation:
+  Loss: 0.6779
+  Acc: 0.7533
+  F1: 0.4101
+  Recall: 0.4138
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: hybrid_augmentation
+Stage: train
+Epoch: 21
+
+Train:
+  Loss: 0.6366
+  Acc: 0.7624
+  F1: 0.4778
+  Recall: 0.4582
+
+Validation:
+  Loss: 0.6873
+  Acc: 0.7657
+  F1: 0.4133
+  Recall: 0.3956
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: hybrid_augmentation
+Stage: train
+Epoch: 22
+
+Train:
+  Loss: 0.6301
+  Acc: 0.7698
+  F1: 0.4859
+  Recall: 0.4614
+
+Validation:
+  Loss: 0.6533
+  Acc: 0.765
+  F1: 0.4664
+  Recall: 0.4617
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: hybrid_augmentation
+Stage: train
+Epoch: 23
+
+Train:
+  Loss: 0.6282
+  Acc: 0.7685
+  F1: 0.5034
+  Recall: 0.4768
+
+Validation:
+  Loss: 0.6555
+  Acc: 0.7781
+  F1: 0.4859
+  Recall: 0.4646
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: hybrid_augmentation
+Stage: train
+Epoch: 24
+
+Train:
+  Loss: 0.6175
+  Acc: 0.7751
+  F1: 0.5004
+  Recall: 0.478
+
+Validation:
+  Loss: 0.6382
+  Acc: 0.7755
+  F1: 0.464
+  Recall: 0.4513
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: hybrid_augmentation
+Stage: train
+Epoch: 25
+
+Train:
+  Loss: 0.621
+  Acc: 0.7749
+  F1: 0.5089
+  Recall: 0.4877
+
+Validation:
+  Loss: 0.6848
+  Acc: 0.7715
+  F1: 0.4099
+  Recall: 0.3638
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: hybrid_augmentation
+Stage: test
+Epoch: final
+
+Test:
+  Accuracy: 0.7846
+  F1: 0.5008
+  Recall: 0.4896
+
+Status: FINAL
+*******************************

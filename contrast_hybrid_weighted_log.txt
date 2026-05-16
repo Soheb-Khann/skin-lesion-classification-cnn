@@ -1,0 +1,133 @@
+
+*******************************
+Experiment: contrast_hybrid_weighted
+Stage: train
+Epoch: 1
+
+Train:
+  Loss: 1.4198
+  Acc: 0.6135
+  F1: 0.3385
+  Recall: 0.3844
+
+Validation:
+  Loss: 0.9935
+  Acc: 0.6736
+  F1: 0.3279
+  Recall: 0.347
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: contrast_hybrid_weighted
+Stage: train
+Epoch: 2
+
+Train:
+  Loss: 1.128
+  Acc: 0.6995
+  F1: 0.4236
+  Recall: 0.4516
+
+Validation:
+  Loss: 0.9571
+  Acc: 0.6756
+  F1: 0.3392
+  Recall: 0.3488
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: contrast_hybrid_weighted
+Stage: train
+Epoch: 3
+
+Train:
+  Loss: 1.0517
+  Acc: 0.7109
+  F1: 0.4539
+  Recall: 0.4778
+
+Validation:
+  Loss: 0.9484
+  Acc: 0.6521
+  F1: 0.4087
+  Recall: 0.4925
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: contrast_hybrid_weighted
+Stage: train
+Epoch: 4
+
+Train:
+  Loss: 0.9823
+  Acc: 0.7281
+  F1: 0.4881
+  Recall: 0.5147
+
+Validation:
+  Loss: 0.7676
+  Acc: 0.7324
+  F1: 0.4977
+  Recall: 0.5198
+
+Status: UNDERFITTING
+*******************************
+
+*******************************
+Experiment: contrast_hybrid_weighted
+Stage: train
+Epoch: 5
+
+Train:
+  Loss: 0.9621
+  Acc: 0.7318
+  F1: 0.5143
+  Recall: 0.5439
+
+Validation:
+  Loss: 0.8716
+  Acc: 0.6926
+  F1: 0.4215
+  Recall: 0.4615
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: contrast_hybrid_weighted
+Stage: train
+Epoch: 6
+
+Train:
+  Loss: 0.9087
+  Acc: 0.7456
+  F1: 0.5393
+  Recall: 0.5685
+
+Validation:
+  Loss: 0.7993
+  Acc: 0.7232
+  F1: 0.4422
+  Recall: 0.4558
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: contrast_hybrid_weighted
+Stage: test
+Epoch: final
+
+Test:
+  Accuracy: 0.7441
+  F1: 0.4942
+  Recall: 0.532
+
+Status: FINAL
+*******************************

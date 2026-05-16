@@ -1,0 +1,293 @@
+
+*******************************
+Experiment: contrast_hybrid_augmentation
+Stage: train
+Epoch: 1
+
+Train:
+  Loss: 1.2174
+  Acc: 0.6518
+  F1: 0.2322
+  Recall: 0.2301
+
+Validation:
+  Loss: 0.9909
+  Acc: 0.7206
+  F1: 0.2126
+  Recall: 0.2301
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: contrast_hybrid_augmentation
+Stage: train
+Epoch: 2
+
+Train:
+  Loss: 0.8894
+  Acc: 0.6964
+  F1: 0.2292
+  Recall: 0.2274
+
+Validation:
+  Loss: 0.9537
+  Acc: 0.671
+  F1: 0.2712
+  Recall: 0.3346
+
+Status: UNDERFITTING
+*******************************
+
+*******************************
+Experiment: contrast_hybrid_augmentation
+Stage: train
+Epoch: 3
+
+Train:
+  Loss: 0.8492
+  Acc: 0.7042
+  F1: 0.2332
+  Recall: 0.2321
+
+Validation:
+  Loss: 0.7941
+  Acc: 0.7232
+  F1: 0.2292
+  Recall: 0.2356
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: contrast_hybrid_augmentation
+Stage: train
+Epoch: 4
+
+Train:
+  Loss: 0.819
+  Acc: 0.7042
+  F1: 0.2489
+  Recall: 0.2441
+
+Validation:
+  Loss: 0.7746
+  Acc: 0.7356
+  F1: 0.2846
+  Recall: 0.2852
+
+Status: UNDERFITTING
+*******************************
+
+*******************************
+Experiment: contrast_hybrid_augmentation
+Stage: train
+Epoch: 5
+
+Train:
+  Loss: 0.8094
+  Acc: 0.7039
+  F1: 0.2676
+  Recall: 0.2547
+
+Validation:
+  Loss: 0.8168
+  Acc: 0.7174
+  F1: 0.33
+  Recall: 0.3729
+
+Status: UNDERFITTING
+*******************************
+
+*******************************
+Experiment: contrast_hybrid_augmentation
+Stage: train
+Epoch: 6
+
+Train:
+  Loss: 0.7941
+  Acc: 0.7094
+  F1: 0.2856
+  Recall: 0.2676
+
+Validation:
+  Loss: 0.789
+  Acc: 0.7174
+  F1: 0.2488
+  Recall: 0.2461
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: contrast_hybrid_augmentation
+Stage: train
+Epoch: 7
+
+Train:
+  Loss: 0.7849
+  Acc: 0.7028
+  F1: 0.2812
+  Recall: 0.2631
+
+Validation:
+  Loss: 0.8041
+  Acc: 0.7285
+  F1: 0.2691
+  Recall: 0.254
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: contrast_hybrid_augmentation
+Stage: train
+Epoch: 8
+
+Train:
+  Loss: 0.7708
+  Acc: 0.7185
+  F1: 0.2988
+  Recall: 0.2822
+
+Validation:
+  Loss: 0.7882
+  Acc: 0.7272
+  F1: 0.2729
+  Recall: 0.277
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: contrast_hybrid_augmentation
+Stage: train
+Epoch: 9
+
+Train:
+  Loss: 0.7486
+  Acc: 0.7234
+  F1: 0.3554
+  Recall: 0.3263
+
+Validation:
+  Loss: 0.84
+  Acc: 0.7265
+  F1: 0.2723
+  Recall: 0.2534
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: contrast_hybrid_augmentation
+Stage: train
+Epoch: 10
+
+Train:
+  Loss: 0.7437
+  Acc: 0.7248
+  F1: 0.3658
+  Recall: 0.3394
+
+Validation:
+  Loss: 0.7128
+  Acc: 0.765
+  F1: 0.4384
+  Recall: 0.4008
+
+Status: UNDERFITTING
+*******************************
+
+*******************************
+Experiment: contrast_hybrid_augmentation
+Stage: train
+Epoch: 11
+
+Train:
+  Loss: 0.7195
+  Acc: 0.7359
+  F1: 0.4075
+  Recall: 0.3801
+
+Validation:
+  Loss: 0.737
+  Acc: 0.7513
+  F1: 0.35
+  Recall: 0.3248
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: contrast_hybrid_augmentation
+Stage: train
+Epoch: 12
+
+Train:
+  Loss: 0.7135
+  Acc: 0.7362
+  F1: 0.4028
+  Recall: 0.3739
+
+Validation:
+  Loss: 0.6992
+  Acc: 0.7644
+  F1: 0.4212
+  Recall: 0.3799
+
+Status: UNDERFITTING
+*******************************
+
+*******************************
+Experiment: contrast_hybrid_augmentation
+Stage: train
+Epoch: 13
+
+Train:
+  Loss: 0.7037
+  Acc: 0.7461
+  F1: 0.4257
+  Recall: 0.3993
+
+Validation:
+  Loss: 0.728
+  Acc: 0.7415
+  F1: 0.4289
+  Recall: 0.4163
+
+Status: UNDERFITTING
+*******************************
+
+*******************************
+Experiment: contrast_hybrid_augmentation
+Stage: train
+Epoch: 14
+
+Train:
+  Loss: 0.6917
+  Acc: 0.7466
+  F1: 0.4368
+  Recall: 0.4141
+
+Validation:
+  Loss: 0.6823
+  Acc: 0.7578
+  F1: 0.4026
+  Recall: 0.3596
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: contrast_hybrid_augmentation
+Stage: test
+Epoch: final
+
+Test:
+  Accuracy: 0.7508
+  F1: 0.386
+  Recall: 0.3516
+
+Status: FINAL
+*******************************

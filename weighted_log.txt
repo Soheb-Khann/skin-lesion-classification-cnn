@@ -1,0 +1,213 @@
+
+*******************************
+Experiment: weighted
+Stage: train
+Epoch: 1
+
+Train:
+  Loss: 1.476
+  Acc: 0.6005
+  F1: 0.3184
+  Recall: 0.3528
+
+Validation:
+  Loss: 1.157
+  Acc: 0.6821
+  F1: 0.3853
+  Recall: 0.3935
+
+Status: UNDERFITTING
+*******************************
+
+*******************************
+Experiment: weighted
+Stage: train
+Epoch: 2
+
+Train:
+  Loss: 1.1804
+  Acc: 0.6635
+  F1: 0.3965
+  Recall: 0.4242
+
+Validation:
+  Loss: 0.9687
+  Acc: 0.6534
+  F1: 0.3658
+  Recall: 0.3926
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: weighted
+Stage: train
+Epoch: 3
+
+Train:
+  Loss: 1.0959
+  Acc: 0.6939
+  F1: 0.4541
+  Recall: 0.4885
+
+Validation:
+  Loss: 0.9329
+  Acc: 0.7056
+  F1: 0.3621
+  Recall: 0.3941
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: weighted
+Stage: train
+Epoch: 4
+
+Train:
+  Loss: 1.0176
+  Acc: 0.7031
+  F1: 0.4764
+  Recall: 0.5101
+
+Validation:
+  Loss: 0.7941
+  Acc: 0.7148
+  F1: 0.4495
+  Recall: 0.4481
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: weighted
+Stage: train
+Epoch: 5
+
+Train:
+  Loss: 1.0002
+  Acc: 0.7084
+  F1: 0.4948
+  Recall: 0.525
+
+Validation:
+  Loss: 0.7807
+  Acc: 0.7193
+  F1: 0.454
+  Recall: 0.447
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: weighted
+Stage: train
+Epoch: 6
+
+Train:
+  Loss: 0.9172
+  Acc: 0.7325
+  F1: 0.5518
+  Recall: 0.5851
+
+Validation:
+  Loss: 0.8111
+  Acc: 0.701
+  F1: 0.4288
+  Recall: 0.4761
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: weighted
+Stage: train
+Epoch: 7
+
+Train:
+  Loss: 0.8795
+  Acc: 0.7455
+  F1: 0.5648
+  Recall: 0.5929
+
+Validation:
+  Loss: 0.7967
+  Acc: 0.6899
+  F1: 0.4706
+  Recall: 0.479
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: weighted
+Stage: train
+Epoch: 8
+
+Train:
+  Loss: 0.8027
+  Acc: 0.7638
+  F1: 0.6047
+  Recall: 0.6439
+
+Validation:
+  Loss: 0.881
+  Acc: 0.6847
+  F1: 0.4861
+  Recall: 0.5087
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: weighted
+Stage: train
+Epoch: 9
+
+Train:
+  Loss: 0.723
+  Acc: 0.7811
+  F1: 0.639
+  Recall: 0.6763
+
+Validation:
+  Loss: 0.9368
+  Acc: 0.7095
+  F1: 0.4066
+  Recall: 0.4159
+
+Status: OVERFITTING
+*******************************
+
+*******************************
+Experiment: weighted
+Stage: train
+Epoch: 10
+
+Train:
+  Loss: 0.6309
+  Acc: 0.7959
+  F1: 0.7035
+  Recall: 0.7442
+
+Validation:
+  Loss: 1.2817
+  Acc: 0.6658
+  F1: 0.4056
+  Recall: 0.4798
+
+Status: OVERFITTING
+*******************************
+
+*******************************
+Experiment: weighted
+Stage: test
+Epoch: final
+
+Test:
+  Accuracy: 0.7076
+  F1: 0.4946
+  Recall: 0.5178
+
+Status: FINAL
+*******************************

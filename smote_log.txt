@@ -1,0 +1,293 @@
+
+*******************************
+Experiment: smote
+Stage: train
+Epoch: 1
+
+Train:
+  Loss: 1.1515
+  Acc: 0.6662
+  F1: 0.2607
+  Recall: 0.2557
+
+Validation:
+  Loss: 0.8259
+  Acc: 0.7252
+  F1: 0.2446
+  Recall: 0.2403
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: smote
+Stage: train
+Epoch: 2
+
+Train:
+  Loss: 0.8236
+  Acc: 0.7042
+  F1: 0.2872
+  Recall: 0.2738
+
+Validation:
+  Loss: 0.8961
+  Acc: 0.6893
+  F1: 0.3223
+  Recall: 0.3284
+
+Status: UNDERFITTING
+*******************************
+
+*******************************
+Experiment: smote
+Stage: train
+Epoch: 3
+
+Train:
+  Loss: 0.7602
+  Acc: 0.7255
+  F1: 0.3348
+  Recall: 0.3136
+
+Validation:
+  Loss: 0.8525
+  Acc: 0.6704
+  F1: 0.3139
+  Recall: 0.3314
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: smote
+Stage: train
+Epoch: 4
+
+Train:
+  Loss: 0.7151
+  Acc: 0.7344
+  F1: 0.3778
+  Recall: 0.3551
+
+Validation:
+  Loss: 0.8169
+  Acc: 0.7343
+  F1: 0.3048
+  Recall: 0.2847
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: smote
+Stage: train
+Epoch: 5
+
+Train:
+  Loss: 0.694
+  Acc: 0.7476
+  F1: 0.4199
+  Recall: 0.3943
+
+Validation:
+  Loss: 0.7087
+  Acc: 0.7448
+  F1: 0.4126
+  Recall: 0.412
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: smote
+Stage: train
+Epoch: 6
+
+Train:
+  Loss: 0.666
+  Acc: 0.7559
+  F1: 0.4406
+  Recall: 0.4149
+
+Validation:
+  Loss: 0.6926
+  Acc: 0.7441
+  F1: 0.3938
+  Recall: 0.3623
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: smote
+Stage: train
+Epoch: 7
+
+Train:
+  Loss: 0.6372
+  Acc: 0.7632
+  F1: 0.4767
+  Recall: 0.4516
+
+Validation:
+  Loss: 0.6962
+  Acc: 0.7487
+  F1: 0.4338
+  Recall: 0.4012
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: smote
+Stage: train
+Epoch: 8
+
+Train:
+  Loss: 0.6073
+  Acc: 0.7792
+  F1: 0.5091
+  Recall: 0.4885
+
+Validation:
+  Loss: 0.7056
+  Acc: 0.7533
+  F1: 0.4158
+  Recall: 0.4226
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: smote
+Stage: train
+Epoch: 9
+
+Train:
+  Loss: 0.5822
+  Acc: 0.7861
+  F1: 0.5222
+  Recall: 0.5021
+
+Validation:
+  Loss: 0.6687
+  Acc: 0.7702
+  F1: 0.4584
+  Recall: 0.4241
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: smote
+Stage: train
+Epoch: 10
+
+Train:
+  Loss: 0.5547
+  Acc: 0.7992
+  F1: 0.5676
+  Recall: 0.544
+
+Validation:
+  Loss: 0.7631
+  Acc: 0.7402
+  F1: 0.4311
+  Recall: 0.4616
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: smote
+Stage: train
+Epoch: 11
+
+Train:
+  Loss: 0.4943
+  Acc: 0.8221
+  F1: 0.5965
+  Recall: 0.581
+
+Validation:
+  Loss: 0.7359
+  Acc: 0.7539
+  F1: 0.4808
+  Recall: 0.4461
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: smote
+Stage: train
+Epoch: 12
+
+Train:
+  Loss: 0.437
+  Acc: 0.8428
+  F1: 0.6329
+  Recall: 0.6218
+
+Validation:
+  Loss: 0.7838
+  Acc: 0.7324
+  F1: 0.4279
+  Recall: 0.4436
+
+Status: OVERFITTING
+*******************************
+
+*******************************
+Experiment: smote
+Stage: train
+Epoch: 13
+
+Train:
+  Loss: 0.3727
+  Acc: 0.8685
+  F1: 0.6803
+  Recall: 0.6666
+
+Validation:
+  Loss: 0.8071
+  Acc: 0.7448
+  F1: 0.4407
+  Recall: 0.4561
+
+Status: OVERFITTING
+*******************************
+
+===== TEST RESULTS =====
+Accuracy: 0.7070
+Macro F1: 0.4928
+Macro Recall: 0.5388
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.30      0.39      0.34        46
+           1       0.47      0.48      0.47        71
+           2       0.45      0.61      0.52       168
+           3       0.14      0.30      0.19        20
+           4       0.37      0.51      0.43       165
+           5       0.96      0.80      0.87       992
+           6       0.59      0.68      0.63        19
+
+    accuracy                           0.71      1481
+   macro avg       0.47      0.54      0.49      1481
+weighted avg       0.77      0.71      0.73      1481
+
+*******************************
+Experiment: smote
+Stage: test
+Epoch: final
+
+Test:
+  Accuracy: 0.707
+  F1: 0.4928
+  Recall: 0.5388
+
+Status: FINAL
+*******************************

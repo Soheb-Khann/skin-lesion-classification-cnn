@@ -1,0 +1,513 @@
+
+*******************************
+Experiment: augmentation
+Stage: train
+Epoch: 1
+
+Train:
+  Loss: 1.3193
+  Acc: 0.6348
+  F1: 0.2029
+  Recall: 0.2017
+
+Validation:
+  Loss: 0.9715
+  Acc: 0.6913
+  F1: 0.162
+  Recall: 0.1719
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: augmentation
+Stage: train
+Epoch: 2
+
+Train:
+  Loss: 0.9114
+  Acc: 0.6817
+  F1: 0.2126
+  Recall: 0.2089
+
+Validation:
+  Loss: 0.8525
+  Acc: 0.6997
+  F1: 0.2231
+  Recall: 0.2419
+
+Status: UNDERFITTING
+*******************************
+
+*******************************
+Experiment: augmentation
+Stage: train
+Epoch: 3
+
+Train:
+  Loss: 0.8823
+  Acc: 0.6861
+  F1: 0.22
+  Recall: 0.2141
+
+Validation:
+  Loss: 0.8394
+  Acc: 0.6854
+  F1: 0.2239
+  Recall: 0.243
+
+Status: UNDERFITTING
+*******************************
+
+*******************************
+Experiment: augmentation
+Stage: train
+Epoch: 4
+
+Train:
+  Loss: 0.8461
+  Acc: 0.6878
+  F1: 0.237
+  Recall: 0.2284
+
+Validation:
+  Loss: 0.8084
+  Acc: 0.718
+  F1: 0.2654
+  Recall: 0.2536
+
+Status: UNDERFITTING
+*******************************
+
+*******************************
+Experiment: augmentation
+Stage: train
+Epoch: 5
+
+Train:
+  Loss: 0.8319
+  Acc: 0.6932
+  F1: 0.2573
+  Recall: 0.2431
+
+Validation:
+  Loss: 0.822
+  Acc: 0.7089
+  F1: 0.253
+  Recall: 0.2658
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: augmentation
+Stage: train
+Epoch: 6
+
+Train:
+  Loss: 0.8198
+  Acc: 0.6981
+  F1: 0.294
+  Recall: 0.2773
+
+Validation:
+  Loss: 0.8409
+  Acc: 0.6952
+  F1: 0.3178
+  Recall: 0.3765
+
+Status: UNDERFITTING
+*******************************
+
+*******************************
+Experiment: augmentation
+Stage: train
+Epoch: 7
+
+Train:
+  Loss: 0.8035
+  Acc: 0.7024
+  F1: 0.3164
+  Recall: 0.2973
+
+Validation:
+  Loss: 0.8002
+  Acc: 0.7213
+  F1: 0.2944
+  Recall: 0.2724
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: augmentation
+Stage: train
+Epoch: 8
+
+Train:
+  Loss: 0.7697
+  Acc: 0.7157
+  F1: 0.3681
+  Recall: 0.3457
+
+Validation:
+  Loss: 0.8276
+  Acc: 0.7258
+  F1: 0.382
+  Recall: 0.3765
+
+Status: UNDERFITTING
+*******************************
+
+*******************************
+Experiment: augmentation
+Stage: train
+Epoch: 9
+
+Train:
+  Loss: 0.7676
+  Acc: 0.7178
+  F1: 0.3675
+  Recall: 0.3446
+
+Validation:
+  Loss: 0.7766
+  Acc: 0.7278
+  F1: 0.3468
+  Recall: 0.3287
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: augmentation
+Stage: train
+Epoch: 10
+
+Train:
+  Loss: 0.7509
+  Acc: 0.7282
+  F1: 0.3993
+  Recall: 0.3777
+
+Validation:
+  Loss: 0.759
+  Acc: 0.7148
+  F1: 0.3273
+  Recall: 0.3083
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: augmentation
+Stage: train
+Epoch: 11
+
+Train:
+  Loss: 0.7392
+  Acc: 0.7294
+  F1: 0.3988
+  Recall: 0.3727
+
+Validation:
+  Loss: 0.7464
+  Acc: 0.7428
+  F1: 0.3277
+  Recall: 0.3206
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: augmentation
+Stage: train
+Epoch: 12
+
+Train:
+  Loss: 0.7304
+  Acc: 0.7329
+  F1: 0.422
+  Recall: 0.3918
+
+Validation:
+  Loss: 0.7201
+  Acc: 0.7454
+  F1: 0.3539
+  Recall: 0.3599
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: augmentation
+Stage: train
+Epoch: 13
+
+Train:
+  Loss: 0.7158
+  Acc: 0.7365
+  F1: 0.4274
+  Recall: 0.406
+
+Validation:
+  Loss: 0.7562
+  Acc: 0.7037
+  F1: 0.4336
+  Recall: 0.4219
+
+Status: UNDERFITTING
+*******************************
+
+*******************************
+Experiment: augmentation
+Stage: train
+Epoch: 14
+
+Train:
+  Loss: 0.7063
+  Acc: 0.7398
+  F1: 0.4252
+  Recall: 0.4055
+
+Validation:
+  Loss: 0.74
+  Acc: 0.752
+  F1: 0.4173
+  Recall: 0.3771
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: augmentation
+Stage: train
+Epoch: 15
+
+Train:
+  Loss: 0.6929
+  Acc: 0.7464
+  F1: 0.448
+  Recall: 0.424
+
+Validation:
+  Loss: 0.6842
+  Acc: 0.7513
+  F1: 0.4278
+  Recall: 0.4114
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: augmentation
+Stage: train
+Epoch: 16
+
+Train:
+  Loss: 0.6886
+  Acc: 0.7528
+  F1: 0.4583
+  Recall: 0.432
+
+Validation:
+  Loss: 1.5868
+  Acc: 0.7239
+  F1: 0.3393
+  Recall: 0.3877
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: augmentation
+Stage: train
+Epoch: 17
+
+Train:
+  Loss: 0.6726
+  Acc: 0.7514
+  F1: 0.452
+  Recall: 0.433
+
+Validation:
+  Loss: 1.1046
+  Acc: 0.7448
+  F1: 0.4069
+  Recall: 0.4338
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: augmentation
+Stage: train
+Epoch: 18
+
+Train:
+  Loss: 0.6659
+  Acc: 0.7569
+  F1: 0.4735
+  Recall: 0.4471
+
+Validation:
+  Loss: 0.7154
+  Acc: 0.7552
+  F1: 0.462
+  Recall: 0.5007
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: augmentation
+Stage: train
+Epoch: 19
+
+Train:
+  Loss: 0.6589
+  Acc: 0.7651
+  F1: 0.4969
+  Recall: 0.4741
+
+Validation:
+  Loss: 0.7075
+  Acc: 0.765
+  F1: 0.4516
+  Recall: 0.4565
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: augmentation
+Stage: train
+Epoch: 20
+
+Train:
+  Loss: 0.6637
+  Acc: 0.7638
+  F1: 0.4901
+  Recall: 0.4665
+
+Validation:
+  Loss: 0.6642
+  Acc: 0.7696
+  F1: 0.4542
+  Recall: 0.412
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: augmentation
+Stage: train
+Epoch: 21
+
+Train:
+  Loss: 0.6492
+  Acc: 0.7659
+  F1: 0.5008
+  Recall: 0.4802
+
+Validation:
+  Loss: 0.6966
+  Acc: 0.7722
+  F1: 0.4834
+  Recall: 0.4539
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: augmentation
+Stage: train
+Epoch: 22
+
+Train:
+  Loss: 0.6382
+  Acc: 0.7675
+  F1: 0.5075
+  Recall: 0.4782
+
+Validation:
+  Loss: 0.6888
+  Acc: 0.7422
+  F1: 0.4743
+  Recall: 0.4636
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: augmentation
+Stage: train
+Epoch: 23
+
+Train:
+  Loss: 0.6308
+  Acc: 0.7736
+  F1: 0.5294
+  Recall: 0.5021
+
+Validation:
+  Loss: 0.7183
+  Acc: 0.7565
+  F1: 0.4769
+  Recall: 0.4842
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: augmentation
+Stage: train
+Epoch: 24
+
+Train:
+  Loss: 0.6241
+  Acc: 0.7759
+  F1: 0.5206
+  Recall: 0.4946
+
+Validation:
+  Loss: 0.7274
+  Acc: 0.7565
+  F1: 0.4557
+  Recall: 0.4264
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: augmentation
+Stage: train
+Epoch: 25
+
+Train:
+  Loss: 0.6277
+  Acc: 0.7686
+  F1: 0.5188
+  Recall: 0.4967
+
+Validation:
+  Loss: 0.6762
+  Acc: 0.7644
+  F1: 0.4434
+  Recall: 0.3994
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: augmentation
+Stage: test
+Epoch: final
+
+Test:
+  Accuracy: 0.7677
+  F1: 0.46
+  Recall: 0.4476
+
+Status: FINAL
+*******************************

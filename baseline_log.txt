@@ -1,0 +1,153 @@
+
+*******************************
+Experiment: baseline
+Stage: train
+Epoch: 1
+
+Train:
+  Loss: 1.1838
+  Acc: 0.6594
+  F1: 0.2543
+  Recall: 0.2498
+
+Validation:
+  Loss: 1.0521
+  Acc: 0.6717
+  F1: 0.2699
+  Recall: 0.3272
+
+Status: UNDERFITTING
+*******************************
+
+*******************************
+Experiment: baseline
+Stage: train
+Epoch: 2
+
+Train:
+  Loss: 0.8362
+  Acc: 0.7075
+  F1: 0.3003
+  Recall: 0.2847
+
+Validation:
+  Loss: 0.8376
+  Acc: 0.705
+  F1: 0.2876
+  Recall: 0.3404
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: baseline
+Stage: train
+Epoch: 3
+
+Train:
+  Loss: 0.784
+  Acc: 0.7189
+  F1: 0.3454
+  Recall: 0.322
+
+Validation:
+  Loss: 0.8498
+  Acc: 0.7043
+  F1: 0.2634
+  Recall: 0.2781
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: baseline
+Stage: train
+Epoch: 4
+
+Train:
+  Loss: 0.7276
+  Acc: 0.7351
+  F1: 0.4136
+  Recall: 0.3882
+
+Validation:
+  Loss: 0.7505
+  Acc: 0.7461
+  F1: 0.3955
+  Recall: 0.3503
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: baseline
+Stage: train
+Epoch: 5
+
+Train:
+  Loss: 0.6995
+  Acc: 0.7485
+  F1: 0.4342
+  Recall: 0.4083
+
+Validation:
+  Loss: 0.7726
+  Acc: 0.7343
+  F1: 0.4044
+  Recall: 0.3994
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: baseline
+Stage: train
+Epoch: 6
+
+Train:
+  Loss: 0.6639
+  Acc: 0.7568
+  F1: 0.456
+  Recall: 0.4334
+
+Validation:
+  Loss: 0.7726
+  Acc: 0.7252
+  F1: 0.3494
+  Recall: 0.3788
+
+Status: GOOD FIT
+*******************************
+
+*******************************
+Experiment: baseline
+Stage: train
+Epoch: 7
+
+Train:
+  Loss: 0.6376
+  Acc: 0.7736
+  F1: 0.5099
+  Recall: 0.4782
+
+Validation:
+  Loss: 0.8454
+  Acc: 0.6978
+  F1: 0.3455
+  Recall: 0.4179
+
+Status: OVERFITTING
+*******************************
+
+*******************************
+Experiment: baseline
+Stage: test
+Epoch: final
+
+Test:
+  Accuracy: 0.7535
+  F1: 0.4213
+  Recall: 0.4202
+
+Status: FINAL
+*******************************
